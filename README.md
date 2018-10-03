@@ -5,5 +5,5 @@
 - git add . (from inside the project folder)
 - git commit -m "add readme"
 - at this point, you can go to github and create a new repo without a readme
-- run the commands for configuring the remote and pushing your existing commits
+- run the commands for configuring the remote and pushing your existing commits (should only be two lines of code).
 - at any point in between these steps, you can run ls, and git status to follow along with how your project is changing.
